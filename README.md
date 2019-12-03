@@ -1,10 +1,17 @@
-# what is the game?
+## what is the game?
 Play control the snkae to eat the food and win the score.After the snake eating each food,player can get 10 points and the snake will grow longer.If the snake's head hit the body,game over.(tips:the snake can't move the opposite direction)
 
-##This game was built using
+
+# This game was built using
 -Eclipse
 
-#Installation
+# How to play
+1.Download Eclipse
+2.Download the Snake file
+3.Complie and run the Snake
+
+
+# Installation
 The libraries imported in order to create this game were:
 import javax.swing.ImageIcon;
 import javax.swing.JOptionPane;
@@ -26,5 +33,9 @@ import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.Random;
 
-##License
+# Code Example
+
+
+
+# License
 STU@Biao Chen
