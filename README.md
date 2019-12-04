@@ -56,12 +56,15 @@ import java.util.Random;
 
 # Code Example
 The following picture contain how to draw the background,the snake head,the snake body and the food.
+
 ![image](https://github.com/Stephencb0217/final-project/blob/master/3.png)
 
 The following picture shows how to move the snake.
+
 ![image](https://github.com/Stephencb0217/final-project/blob/master/2.png)
 
 The following picture shows how to control the snake.
+
 ![image](https://github.com/Stephencb0217/final-project/blob/master/1.png)
 
 # License
