@@ -67,5 +67,10 @@ The following picture shows how to control the snake.
 
 ![image](https://github.com/Stephencb0217/final-project/blob/master/1.png)
 
+
+
+
+# Example
+![gif](https://github.com/Stephencb0217/final-project/blob/master/%E6%88%91%E7%9A%84%E5%BD%B1%E7%89%87.gif)
 # License
 STU@Biao Chen
