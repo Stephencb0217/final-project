@@ -8,9 +8,11 @@ Play control the snkae to eat the food and win the score.After the snake eating 
 # How to play
 1.Download Eclipse
 
-2.Download the Snake file
+2.import the java se file(maybe you need)
 
-3.Complie and run the Snake
+3.Download the Snake file
+
+4.Complie and run the Snake
 
 
 # Installation
